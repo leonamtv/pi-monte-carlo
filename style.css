@@ -19,6 +19,7 @@ canvas {
 }
 
 .content button {
+    margin-left: 10px;
     border: none;
     color: white;
     font-size: 18px;
